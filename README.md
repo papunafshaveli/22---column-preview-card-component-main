@@ -1,4 +1,4 @@
-Tip calculator app solution
+column-preview-card-component
 
 ## Table of contents
 
